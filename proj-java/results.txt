@@ -1,0 +1,13 @@
+Query1 -> (What are the actual risks of giving www-data sudo nopasswd access?, WebNinja)
+Query 2 -> []
+Query 3 -> (0, 0)
+Query 4 -> []
+Query 5 -> (<p>Coder. JS, Perl, Python, Basic<br>Books/movies: SF+F.<br>Dead:dell 9300<br>Dead: dell 1720 as of may 10th 2011.</p>
+<p>Current system: Acer Aspire 7750G.<br>
+Works OOTB as of Ubuntu 12.04.<br></p>, [982507, 982455, 980877, 980197, 980189, 976713, 974412, 974359, 973895, 973838])
+Query6 -> []
+Query 7 -> []
+Query 8 -> []
+Query 9 -> [594]
+Query 10 -> 175891
+Query 11 -> []
